@@ -1,67 +1,107 @@
-# Kirankumar-Thakor
+👨‍💻 Kirankumar Thakor
 
-👋 Hi, I'm Kirankumar Thakor
+"IT Student" • "Cybersecurity Enthusiast" • "Aspiring Security Analyst"
 
-🎓 IT Student | 🔐 Aspiring Cybersecurity Professional
+┌─────────────────────────────────────────────────────────────┐
+│  > whoami                                                    │
+│  Kirankumar Thakor                                           │
+│                                                             │
+│  > role                                                       │
+│  Information Technology Student                              │
+│                                                             │
+│  > focus                                                      │
+│  Cybersecurity • Networking • Linux                          │
+└─────────────────────────────────────────────────────────────┘
 
-I'm an Information Technology student currently exploring the world of Cybersecurity, Networking, and Linux.
+🛡️ About Me
 
-I enjoy learning how systems and networks work, finding security issues, and building my technical skills through hands-on practice.
+I'm an Information Technology student with a growing interest in Cybersecurity, Networking, Linux, and Security Analysis.
+
+I enjoy understanding how systems and networks work, exploring security concepts, and improving my technical skills through hands-on practice and projects.
+
+$ echo "Learning → Practicing → Building → Securing"
 
 ---
 
-🛠️ Skills & Technologies
+⚙️ Technical Skills
 
-Programming
+💻 Programming & Web
 
-- C
-- C++
-- Python
+C          ███████░░░
+C++        ███████░░░
+Python     ███████░░░
+HTML       ████████░░
+CSS        ███████░░░
 
-Web Development
+🔐 Cybersecurity
 
-- HTML
-- CSS
+├── 🔎 Cybersecurity Analysis
+├── 🌐 Computer Networking
+├── 🐧 Linux
+├── ⚔️ Kali Linux
+└── 🛡️ Security Fundamentals
 
-Cybersecurity & Networking
+🧰 Areas of Interest
 
-- Computer Networking
-- Linux
-- Kali Linux
-- Cybersecurity Analysis
+"Network Security" • "Linux Security" • "Ethical Hacking" • "Security Analysis" • "Cybersecurity"
 
 ---
 
 🌱 Currently Learning
 
-- 🔐 Cybersecurity Fundamentals
-- 🌐 Networking & Network Security
-- 🐧 Linux & Kali Linux
-- 🕵️ Cybersecurity Analysis
-- 🐍 Python for Cybersecurity
+┌─[kirankumar@cyberlab]
+└─$ cat learning.txt
+
+[+] Linux & Kali Linux
+[+] Networking Fundamentals
+[+] Cybersecurity Fundamentals
+[+] Security Analysis
+[+] Python for Cybersecurity
+[+] Practical Security Labs
 
 ---
 
-🎯 My Goal
+🚀 Projects & Practice
 
-To build a strong foundation in Cybersecurity and develop practical skills through projects, labs, and continuous learning.
+«Building practical projects to turn theoretical knowledge into real-world skills.»
+
+- 🔐 Cybersecurity Projects
+- 🐍 Python Security Tools
+- 🌐 Networking Labs
+- 🐧 Linux/Kali Linux Practice
+- 🧪 Security Analysis Labs
 
 ---
 
-📂 What You'll Find Here
+📊 GitHub Activity
 
-- 🔐 Cybersecurity projects
-- 🐍 Python projects
-- 🌐 Networking-related work
-- 🐧 Linux/Kali Linux practice
-- 📚 Learning resources and notes
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+🎯 2026 Goal
+
+[████████████████░░░░] Building Cybersecurity Skills
+
+01 → Strengthen Networking
+02 → Master Linux Fundamentals
+03 → Practice Cybersecurity Labs
+04 → Build Security Projects
+05 → Create a Strong Cybersecurity Portfolio
 
 ---
 
 📫 Connect With Me
 
-I'm always interested in learning, collaborating, and connecting with people interested in Cybersecurity and Technology.
+💬 Open to learning, collaboration, cybersecurity projects, and networking.
 
 ---
 
-⭐ Learning every day. Building every day. Securing every day.
+⚡ "Keep Learning. Keep Building. Keep Securing."
+
+$ sudo apt update && sudo apt upgrade
+$ keep-learning
+$ keep-building
+$ stay-curious
