@@ -1,59 +1,44 @@
-👨‍💻 Kirankumar Thakor
+"> whoami"
 
-"IT Student" • "Cybersecurity Enthusiast" • "Aspiring Security Analyst"
+Kirankumar Thakor
+"IT Student" • "Aspiring Cybersecurity Professional" • "Tech Enthusiast"
 
-┌─────────────────────────────────────────────────────────────┐
-│  > whoami                                                    │
-│  Kirankumar Thakor                                           │
-│                                                             │
-│  > role                                                       │
-│  Information Technology Student                              │
-│                                                             │
-│  > focus                                                      │
-│  Cybersecurity • Networking • Linux                          │
-└─────────────────────────────────────────────────────────────┘
+┌──[kirankumar@github]─[~]
+└─$ whoami
 
-🛡️ About Me
+IT Student | Cybersecurity Learner
 
-I'm an Information Technology student with a growing interest in Cybersecurity, Networking, Linux, and Security Analysis.
+"> About Me"
 
-I enjoy understanding how systems and networks work, exploring security concepts, and improving my technical skills through hands-on practice and projects.
-
-$ echo "Learning → Practicing → Building → Securing"
+🎓 7th Semester Information Technology student
+🔐 Exploring Cybersecurity & Security Analysis
+🌐 Learning Networking & Network Security
+🐧 Working with Linux & Kali Linux
+🐍 Using Python for programming and security-oriented learning
+🧠 Focused on building practical skills through hands-on projects
 
 ---
 
-⚙️ Technical Skills
+"> Technical Skills"
 
-💻 Programming & Web
+Languages
 
-C          ███████░░░
-C++        ███████░░░
-Python     ███████░░░
-HTML       ████████░░
-CSS        ███████░░░
+"C" "C++" "Python"
 
-🔐 Cybersecurity
+Web Technologies
 
-├── 🔎 Cybersecurity Analysis
-├── 🌐 Computer Networking
-├── 🐧 Linux
-├── ⚔️ Kali Linux
-└── 🛡️ Security Fundamentals
+"HTML" "CSS"
 
-🧰 Areas of Interest
+Cybersecurity & Systems
 
-"Network Security" • "Linux Security" • "Ethical Hacking" • "Security Analysis" • "Cybersecurity"
+"Cybersecurity" "Security Analysis" "Networking" "Linux" "Kali Linux"
 
 ---
 
-🌱 Currently Learning
+"> Currently Learning"
 
-┌─[kirankumar@cyberlab]
-└─$ cat learning.txt
-
-[+] Linux & Kali Linux
 [+] Networking Fundamentals
+[+] Linux & Kali Linux
 [+] Cybersecurity Fundamentals
 [+] Security Analysis
 [+] Python for Cybersecurity
@@ -61,47 +46,62 @@ CSS        ███████░░░
 
 ---
 
-🚀 Projects & Practice
+"> Tools & Environment"
 
-«Building practical projects to turn theoretical knowledge into real-world skills.»
-
-- 🔐 Cybersecurity Projects
-- 🐍 Python Security Tools
-- 🌐 Networking Labs
-- 🐧 Linux/Kali Linux Practice
-- 🧪 Security Analysis Labs
+OS          → Linux / Kali Linux
+Languages   → C / C++ / Python
+Web         → HTML / CSS
+Focus       → Cybersecurity / Networking
+Environment → Git / GitHub
 
 ---
 
-📊 GitHub Activity
+"> Cybersecurity Journey"
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-🎯 2026 Goal
-
-[████████████████░░░░] Building Cybersecurity Skills
-
-01 → Strengthen Networking
-02 → Master Linux Fundamentals
-03 → Practice Cybersecurity Labs
-04 → Build Security Projects
-05 → Create a Strong Cybersecurity Portfolio
+Networking
+    │
+    ├── Linux
+    │
+    ├── Security Fundamentals
+    │
+    ├── Security Analysis
+    │
+    └── Practical Cybersecurity
 
 ---
 
-📫 Connect With Me
+"> Featured Work"
 
-💬 Open to learning, collaboration, cybersecurity projects, and networking.
+🔐 Cybersecurity Projects
+🌐 Networking Labs & Experiments
+🐍 Python Projects
+🐧 Linux / Kali Linux Practice
+📚 Cybersecurity Learning & Notes
 
 ---
 
-⚡ "Keep Learning. Keep Building. Keep Securing."
+"> GitHub Activity"
 
-$ sudo apt update && sudo apt upgrade
-$ keep-learning
-$ keep-building
-$ stay-curious
+$ git status
+
+Learning → ON
+Building → ON
+Exploring → ON
+Improving → ON
+
+---
+
+"> Connect"
+
+💬 Open to learning, collaboration, and connecting with fellow developers & cybersecurity enthusiasts.
+
+---
+
+"> Mission"
+
+«Learn → Build → Analyze → Secure»
+
+"Every system has something to teach.
+Every vulnerability has something to reveal."
+
+⭐ If you find something useful here, feel free to explore my repositories.
